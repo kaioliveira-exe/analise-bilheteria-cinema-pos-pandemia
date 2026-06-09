@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para analisar como a economia do cinema mudou entr
 
 
 ## Tecnologias e Ferramentas Utilizadas
-**Python (Pandas, Matplotlib e Seaborn):** Utilizado como ambiente de desenvolvimento (VS Code) para conectar ao banco de dados, manipular os DataFrames estruturados e originar gráficos.
+* **Python (Pandas, Matplotlib e Seaborn):** Utilizado como ambiente de desenvolvimento (VS Code) para conectar ao banco de dados, manipular os DataFrames estruturados e originar gráficos.
 * **SQL (SQLite):** Utilizado para a extração, filtragem com condições e agregação dos dados brutos através do ambiente VS Code.
 * **Excel:** Utilizado para a estruturação das métricas financeiras e geração de gráficos.
 
