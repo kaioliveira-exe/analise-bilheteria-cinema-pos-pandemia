@@ -4,9 +4,13 @@
 Este projeto foi desenvolvido para analisar como a economia do cinema mudou entre o cenário pré-pandemia (2015-2019) e o cenário pós-pandemia/mercado híbrido (2022-atualmente). A base de dados utilizada foi a *'The Ultimate 1Million Movies Dataset (TMDB + IMDb)'* extraída do Kaggle. A análise procura responder a cinco perguntas:
 
 1-Quais os gêneros com mais chances de darem lucro no pós-pandemia?
+
 2-Qual o comportamento dos filmes de orçamento médio (Mid-budget) durante o período pós-pandemia, em comparação ao período pré-pandemia?
+
 3-O quanto os filmes de terror se destacam, levando em conta o ROI(Return on Investment)?
+
 4-O quanto a pandemia e a curta janela de lançamento nos streamings afetou a bilheteria dos filmes pós-pandemia?
+
 5-Filmes em língua não-inglesa estão quebrando barreiras de lucro?
 
 
