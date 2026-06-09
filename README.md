@@ -48,6 +48,7 @@ Os scripts de código desenvolvidos estão disponíveis na raiz deste repositór
 2. Salve o arquivo do banco de dados na mesma pasta do script Python.
 3. Instale as dependências necessárias (`pip install pandas`).
 4. Execute o arquivo `.py` para gerar os outputs das tabelas tratadas.
+
 *Nota de desenvolvimento:* Para garantir uma execução limpa, o script foi estruturado em blocos independentes para cada pergunta de negócio. Para rodar uma análise específica, basta alternar a ativação dos blocos correspondentes no código.
 
 
