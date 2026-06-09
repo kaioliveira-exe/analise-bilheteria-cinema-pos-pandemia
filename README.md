@@ -23,7 +23,7 @@ Este projeto foi desenvolvido para analisar como a economia do cinema mudou entr
 ## Principais Insights Encontrados
 A análise dos dados encontrou as seguintes informações para cada uma das perguntas:
 
-1. [**Predominância das animações, aventuras e ficções científicas**]!(grafico_generoXlucro_excel.png)
+1. ![**Predominância das animações, aventuras e ficções científicas**](grafico_generoXlucro_excel.png)
 Estes gêneros lideram o ranking de lucro médio no pós-pandemia. Eles funcionam como blockbusters de "apelo familiar", atraindo o público em massa para as salas de cinema (experiência de tela grande) e justificando o valor do ingresso premium.
   
 2. [**O Efeito Tesoura nos filmes de orçamento médio**](grafico_mid_budget.png)
