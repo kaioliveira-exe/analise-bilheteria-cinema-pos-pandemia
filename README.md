@@ -14,7 +14,7 @@ Este projeto foi desenvolvido para analisar como a economia do cinema mudou entr
 5-Filmes em língua não-inglesa estão quebrando barreiras de lucro?
 
 
-## Tecnologias e Ferramentas Utilizadas
+## Ferramentas Utilizadas
 * **Python (Pandas, Matplotlib e Seaborn):** Utilizado como ambiente de desenvolvimento (VS Code) para conectar ao banco de dados, manipular os DataFrames estruturados e originar gráficos.
 * **SQL (SQLite):** Utilizado para a extração, filtragem com condições e agregação dos dados brutos através do ambiente VS Code.
 * **Excel:** Utilizado para a estruturação das métricas financeiras e geração de gráficos.
@@ -37,6 +37,18 @@ A bilheteria média global encolheu e a janela mais curta entre o cinema e o str
 
 5. [**O cinema internacional caminha ao seu ápice financeiro**](cinema_internacional.png)
 Filmes em língua não-inglesa (como produções coreanas, japonesas e europeias) estão quebrando barreiras históricas. Impulsionados pela globalização dos streamings e maior aceitação de legendas, o lucro médio e o alcance global dessas produções atingiram níveis recordes.
+
+## Estrutura de Código e Como Replicar
+
+Os scripts de código desenvolvidos estão disponíveis na raiz deste repositório:
+* `script_analise.py`: Contém a conexão com o banco SQLite e todas as queries SQL executadas via Pandas para responder às perguntas de negócio.
+
+### Passos para rodar localmente:
+1. Baixe a base de dados *'The Ultimate 1Million Movies Dataset'* diretamente no Kaggle.
+2. Salve o arquivo do banco de dados na mesma pasta do script Python.
+3. Instale as dependências necessárias (`pip install pandas`).
+4. Execute o arquivo `.py` para gerar os outputs das tabelas tratadas.
+*Nota de desenvolvimento:* Para garantir uma execução limpa, o script foi estruturado em blocos independentes para cada pergunta de negócio. Para rodar uma análise específica, basta alternar a ativação dos blocos correspondentes no código.
 
 
 ## Conclusão
